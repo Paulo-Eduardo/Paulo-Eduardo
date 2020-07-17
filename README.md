@@ -4,7 +4,7 @@
 
 ### Senior Software Developer
 
-<img src="https://i.gifer.com/WH8X.gif" width="100"  />
+<img src="https://i.ibb.co/zRfK3cj/5bux.gif" width="100"  />
 
 ## 🌀 Techs:
 
