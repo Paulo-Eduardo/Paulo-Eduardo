@@ -26,9 +26,8 @@
 
 ## ❄️ Current and Future Personal Projects:
 
-- Serverless Solutions
-- CQRS, Event Sourcing and others architecture
-- Kubernetes
 - New Nodejs Frameworks
+- Kubernetes
+- CQRS, Event Sourcing and others architecture
 - Machine Learning
 - Artificial Intelligence
