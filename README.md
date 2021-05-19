@@ -19,6 +19,7 @@
 ## ⚡ Languages:
 
 - JavaScript (TypeScript)
+- Golang
 - Python
 - C#
 
@@ -26,7 +27,6 @@
 
 ## ❄️ Current and Future Personal Projects:
 
-- New Nodejs Frameworks
 - Kubernetes
 - CQRS, Event Sourcing and others architecture
 - Machine Learning
